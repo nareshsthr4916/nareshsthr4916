@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nareshsthr4916
+- 👋 Hi, I’m @nareshsthr
 - 👀 I’m interested in Web Development, C, C++, Java etc
 - 🌱 I’m currently learning Web Developing
 - 💞️ I’m looking to collaborate on Github to Share Projects
